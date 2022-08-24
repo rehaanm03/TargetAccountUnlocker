@@ -1,0 +1,13 @@
+{
+  "Key": "",
+  "Headless": false,
+  "Proxy": false,
+  "DiscordWebhook": "DiscordWebhook",
+  "imap": {
+    "enable": true,
+    "email": "email@gmail.com",
+    "password": "emailPassword",
+    "host": "imap.gmail.com",
+    "port": 993
+  }
+}
